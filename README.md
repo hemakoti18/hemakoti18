@@ -6,7 +6,20 @@
 
 Working on an alternator assembly line taught me to look at the steps behind a shift target. I bring that habit to software. Before I build a form or a dashboard, I want to know who will use it and what decision it should help them make.
 
-[Selected work](#selected-work) · [Hands-on stack](#hands-on-stack) · [Engineering roadmap](#engineering-roadmap)
+[Hands-on stack](#hands-on-stack) · [Selected work](#selected-work) · [Engineering roadmap](#engineering-roadmap)
+
+## Hands-on stack
+
+![HTML, CSS, JavaScript, Python, MySQL, Git and GitHub](https://skillicons.dev/icons?i=html,css,js,py,mysql,git,github&perline=7)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/pandas/pandas-original.svg" height="36" alt="pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/numpy/numpy-original.svg" height="36" alt="NumPy"> <img src="https://api.iconify.design/vscode-icons/file-type-excel.svg" height="36" alt="Excel"> <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="36" alt="Power BI">
+
+| Area | Tools I use | What I use them for |
+| --- | --- | --- |
+| Web development | HTML, CSS, JavaScript | Build forms, handle clicks and update a dashboard as records change. |
+| Data analysis | Python, pandas, NumPy, SQL (MySQL) | Clean records, join tables and compare groups. |
+| Business intelligence | Excel, Power Query, Power BI, DAX | Shape data, define measures and build reports people can filter. |
+| Version control | Git, GitHub | Work on feature branches, compare changes and keep a commit history. |
 
 ## Selected work
 
@@ -22,16 +35,9 @@ One detail matters during roll call. A student can be **present**, **absent** or
 
 **Orders went up. Did each order earn more?** I compare profit per order with delivery cost per order in a monthly dataset. If profit per order falls while delivery cost per order rises, I'd ask for order-level data by route and basket size to see where margins changed.
 
-## Hands-on stack
-
-| Area | Tools I use | What I use them for |
-| --- | --- | --- |
-| Web development | HTML, CSS, JavaScript | Build forms, handle clicks and update a dashboard as records change. |
-| Data analysis | Python, pandas, NumPy, SQL (MySQL) | Clean records, join tables and compare groups. |
-| Business intelligence | Excel, Power Query, Power BI, DAX | Shape data, define measures and build reports people can filter. |
-| Version control | Git, GitHub | Work on feature branches, compare changes and keep a commit history. |
-
 ## Engineering roadmap
+
+![TypeScript, React, FastAPI, PostgreSQL, Linux, Bash, Docker, AWS, GitHub Actions, Terraform, Kubernetes and Grafana](https://skillicons.dev/icons?i=ts,react,fastapi,postgres,linux,bash,docker,aws,githubactions,terraform,kubernetes,grafana&perline=6)
 
 My next milestone is to give AttendEase a shared **FastAPI** backend and **PostgreSQL** database. A teacher should be able to correct a mark on a laptop, refresh the roster on a second device and see the updated status. I'd then ask a teacher to try it during roll call and compare completion times with their current process.
 
