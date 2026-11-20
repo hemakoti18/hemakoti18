@@ -4,7 +4,9 @@
 
 ![Who uses this every day? Where does the work slow down? How will we know it helped?](https://readme-typing-svg.demolab.com/?size=20&duration=2200&pause=1200&color=9AEEE2&background=102637&repeat=false&center=true&vCenter=true&width=500&height=46&lines=Who+uses+this+every+day%3F;Where+does+the+work+slow+down%3F;How+will+we+know+it+helped%3F)
 
-Working on an alternator assembly line taught me to look at the steps behind a shift target. I bring that habit to software. Before I build a form or a dashboard, I want to know who will use it and what decision it should help them make.
+I approach software development with a problem-solving mindset, focusing on building practical solutions that deliver real value. Before developing a feature, form, or dashboard, I aim to understand the user's needs, identify the problem, and determine how technology can simplify workflows and improve decision-making.
+
+My goal is to bridge the gap between technical solutions and real-world business challenges by creating scalable, user-focused, and impactful applications.
 
 [Hands-on stack](#hands-on-stack) · [Selected work](#selected-work) · [Engineering roadmap](#engineering-roadmap)
 
